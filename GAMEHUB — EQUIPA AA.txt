@@ -8,8 +8,6 @@ Reviews desta edição:
 
 | Aluno 			 | Username GitHub | Jogo |
 |--------|-----------------|------|
-| Diogo Alexandre Paula Ferreira | @username-a | Jogo 1 |
-| Nome B | @username-b | Jogo 2 |
-| Nome C | @username-c | Jogo 3 |
-| Nome D | @username-d | Jogo 4 |
-teste
+| Diogo Alexandre Paula Ferreira | @dapf140606-glitch | Jogo 1 |
+| André Amaro Freire| @AndreFreire05 | Jogo 2 |
+| Ricardo Carvalho Pinto | @ricardo-p1nto | Jogo 3 |
