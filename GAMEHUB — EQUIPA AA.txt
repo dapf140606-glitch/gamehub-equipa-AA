@@ -1,0 +1,14 @@
+GAMEHUB — EQUIPA AA
+===================
+
+Reviews desta edição:
+(cada membro adiciona AQUI a linha da sua review)
+
+# GameHub — Equipa XX
+
+| Aluno 			 | Username GitHub | Jogo |
+|--------|-----------------|------|
+| Diogo Alexandre Paula Ferreira | @username-a | Jogo 1 |
+| Nome B | @username-b | Jogo 2 |
+| Nome C | @username-c | Jogo 3 |
+| Nome D | @username-d | Jogo 4 |
